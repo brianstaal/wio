@@ -2,3 +2,14 @@
 /subprojects/libinih
 *.swp
 .cache
+
+# .NET / C# compiled files
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Publish output
+publish/
+docs/porting_plan.md

@@ -12,4 +12,5 @@ obj/
 
 # Publish output
 publish/
+Artifacts/Release/
 docs/porting_plan.md
